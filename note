@@ -1,0 +1,12 @@
+intput:
+10
+eat tea tan ate nat bat han anh eta tab
+
+10
+eat tea tan ate nat bat anh han eta tab
+
+output:
+anh han // han anh
+bat tab
+eat tea ate eta
+tan nat
